@@ -1,0 +1,16 @@
+{
+  "name": "testing-stub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hummus": "^1.0.110",
+    "memory-streams": "^0.1.3"
+  }
+}
